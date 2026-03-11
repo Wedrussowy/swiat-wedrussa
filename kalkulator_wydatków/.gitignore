@@ -1,0 +1,6 @@
+# Bazy danych
+wydatki.db
+
+# Pliki tymczasowe Pythona
+__pycache__/
+*.pyc
