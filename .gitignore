@@ -1,6 +1,21 @@
-# Bazy danych
-wydatki.db
+# Bazy danych (Twoje wydatki)
+*.db
+*.sqlite3
 
 # Pliki tymczasowe Pythona
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Środowiska wirtualne
+venv/
+env/
+ENV/
+
+# Ustawienia edytorów (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
